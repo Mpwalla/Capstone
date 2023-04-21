@@ -1,7 +1,7 @@
 -Capstone project
 
 
-The final dashboard can be found here:https://public.tableau.com/app/profile/mattew.wallace/viz/Draft_16817599452990/Capstone_story
+The final dashboard can be found here:https://public.tableau.com/app/profile/mattew.wallace/viz/Final_Project_16820355862720/Capstone_story?publish=yes
 
 Data for this project can be found at: (https://www.kaggle.com/datasets/thedevastator/global-video-game-sales)
 
